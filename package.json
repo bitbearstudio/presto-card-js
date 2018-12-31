@@ -1,6 +1,6 @@
 {
   "name": "presto-card-js",
-  "version": "1.0.0",
+  "version": "6.0.0",
   "module": "lib/index.js",
   "main": "dist/index.js",
   "author": "bitbearstudio",
