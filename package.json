@@ -20,10 +20,16 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-react": "^7.12.0",
+    "jest": "^23.6.0",
+    "nock": "^10.0.5",
     "prettier": "^1.15.3"
   },
   "dependencies": {
-    "babel-polyfill": "^6.26.0"
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "cheerio-without-node-native": "^1.0.0-rc.2",
+    "moment": "^2.23.0",
+    "qs": "^6.6.0"
   },
   "scripts": {
     "build": "babel lib --out-dir dist",
