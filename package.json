@@ -29,7 +29,7 @@
     "babel-polyfill": "^6.26.0",
     "cheerio-without-node-native": "0.20.2",
     "moment": "^2.23.0",
-    "qs": "^6.6.0"
+    "qs": "^6.9.7"
   },
   "scripts": {
     "build": "babel lib --out-dir dist",
