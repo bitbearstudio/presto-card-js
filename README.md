@@ -2,7 +2,7 @@
 
 > Fetch PRESTO card info with NodeJS or React Native.
 
-[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](http://forthebadge.com)
+[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/uses-js.svg)](http://forthebadge.com) [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/built-with-grammas-recipe.svg)](http://forthebadge.com)
 
 ## Installation
 
